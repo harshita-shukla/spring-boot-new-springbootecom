@@ -1,0 +1,14 @@
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/services/CustomerService.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/repository/OrderRepository.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/config/Config.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/entities/Product.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/repository/CustomerRepository.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/entities/Order.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/repository/ProductRepository.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/dto/ProdCustQuant.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/entities/Customer.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/App.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/dto/Inventory.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/Constants.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/controller/CustomerController.java
+/home/harshita/IdeaProjects/ecom-springboot/src/main/java/com/harshita/ecom/Conf.java
